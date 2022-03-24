@@ -13,7 +13,7 @@ public class Program {
 		char resp;
 
 		do {
-			System.out.println("Teste");
+			
 			System.out.println("=============== Calculadora ===============\n");
 			System.out.println("Escolha a op��o abaixo:\n");
 			System.out.println("1 - Somar");
